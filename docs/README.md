@@ -34,6 +34,11 @@ Navigate to specific process guides based on your current project phase:
 ### Supporting Resources
 - **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed role definitions and responsibilities
 
+### Templates & Checklists
+- **[Stakeholder Communication Checklist](template-stakeholder-communication-checklist.md)** — Comprehensive guide for maintaining stakeholder engagement
+- **[Risk Register Template](template-risk-register.md)** — Enhanced risk tracking format with examples and best practices
+- **[Definition of Done Template](template-definition-of-done.md)** — Quality standards and completion criteria for work items
+
 ---
 
 ## How to Use These Docs
